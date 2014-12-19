@@ -1,0 +1,38 @@
+{
+	"build_env":
+	{
+		"PATH": "/usr/local/bin:/usr/bin"
+	},
+	"cmd":
+	[
+		"/usr/local/bin/plenv",
+		"exec",
+		"perl",
+		"$file"
+	],
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"env":
+	{
+		"PERLPATH": "/Users/ryo.a.kato/.plenv/shims/perl"
+	},
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Better CoffeeScript",
+		"SublimeLinter"
+	],
+	"perltidy_cmd": "/Users/ryo.a.kato/.plenv/shims/perltidy",
+	"perltidy_options":
+	[
+	],
+	"perltidy_rc_paths":
+	[
+		"/Users/ryo.a.kato/.perltidyrc",
+		".perltidyrc",
+		"perltidyrc"
+	],
+	"selector": "source.perl",
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true
+}

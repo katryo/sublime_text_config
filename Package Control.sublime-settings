@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"CoffeeCompile",
+		"CTags",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"JSHint",
+		"PerlTidy",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-perl",
+		"SublimeLinter-contrib-perlcritic"
+	]
+}
